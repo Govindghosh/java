@@ -29,8 +29,8 @@ public class TypeCasting {
         System.out.print("automatic type promotion in expressions :");
         int a = input.nextInt();
         byte b = (byte) (a);
-        System.out.print("automatic type promotion in expressions is :" + b);
-        System.out.println("New byte to byte ");
+        System.out.println("automatic type promotion in expressions is :" + b);
+        System.out.println("Now byte to byte ");
         byte c = 40;
         byte d = 50;
         byte e = 100;
