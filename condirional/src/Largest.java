@@ -14,7 +14,18 @@ public class Largest {
         if (c > max){
             max = c;
         }
-        System.out.print("Largest num is : " + max);
+        System.out.println("way 1st Largest num is : " + max);
+        if (a < b){
+            max = b;
+        } else {
+            max = a;
+        }
+        if (c > max) {
+            max = c;
+        }
+        System.out.println("way 2nd Largest num is : " + max);
+        long maxi = Math.max(c, Math.max(a ,b));
+        System.out.println("way 3rd Largest num is : " + maxi);
         in.close();
     }
 }
