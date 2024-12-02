@@ -27,9 +27,9 @@ public class SwitchCaseCalculator {
                         res = num1 * num2;
                         break;
                     case '/':
-                        if (num2 != 0){
+                        if (num2 != 0) {
                             res = num1 / num2;
-                        }else {
+                        } else {
                             System.out.println("Error: Division by zero is not allowed.");
                             continue;
                         }
@@ -37,7 +37,7 @@ public class SwitchCaseCalculator {
                     case '%':
                         if (num2 != 0) {
                             res = num1 % num2;
-                        }else {
+                        } else {
                             System.out.println("Error: Modulo by zero is not allowed.");
                         }
                         break;
