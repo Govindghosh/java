@@ -9,7 +9,14 @@ public class Question {
         int n = in.nextInt();
         boolean ans = isPrime(n);
         System.out.println(ans);
+        boolean ans1 = isArmStrong(n);
+        System.out.println(ans1);
         in.close();
+        for (int i=100; i<10000; i++){
+            if(isArmStrong(i)){
+                System.out.print(i + " ");
+            }
+        }
     }
     static boolean isPrime(int n){
         if (n <= 1){
@@ -23,5 +30,16 @@ public class Question {
             c++;
         }
         return c * c > n;
+    }
+    // print armStrong number
+    static boolean isArmStrong(int n){
+        int original = n;
+        int sum =0;
+        while(n>0){
+            int rem = n % 10;
+            n = n / 10;
+            sum = sum + rem * rem * rem;
+        }
+        return sum == original;
     }
 }
