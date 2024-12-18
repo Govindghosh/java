@@ -1,4 +1,4 @@
-package array;
+package linearSearchAlgorithm;
 
 import java.util.Scanner;
 
