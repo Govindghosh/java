@@ -20,9 +20,15 @@ public class LinearSearchInString {
         System.out.print("Please provide String : ");
         String str = in.nextLine().replaceAll(" ","");
         System.out.print("Please provide which char : ");
-        String target1 = in.next().trim();
+        char target1 = in.next().trim().charAt(0);
         int ans3 = linearSearch3(str, target1);
         System.out.print("Target index is :" + ans3);
+        String ans4 = linearSearch4(str, target1);
+        System.out.println();
+        System.out.print("Target Element is :" + ans4);
+        boolean ans5 = linearSearch5(str, target1);
+        System.out.println();
+        System.out.print("Target Element is :" + ans5);
     }
     //search the target and return true and False
     static boolean linearSearch(String name, char target){
@@ -63,16 +69,43 @@ public class LinearSearchInString {
         return "no index found";
     }
     //search the target and return Target Index using input
-    static int linearSearch3(String str, String target1){
-        if (str.isEmpty()){
+    static int linearSearch3(String str, char target1) {
+        if (str.isEmpty()) {
             return -1;
         }
         for (int i = 0; i < str.length(); i++) {
-            String element = String.valueOf(str.charAt(i));
-            if(target1.equals(element)){
+            char element = str.charAt(i);
+            if (target1 == element) {
                 return i;
             }
         }
         return -1;
     }
+    static String linearSearch4(String str, char target1) {
+        if (str.isEmpty()) {
+            return "not found";
+        }
+        char[] charArray = str.toCharArray();
+        for (int i = 0; i < charArray.length; i++) {
+            char c = charArray[i];
+            if (c == target1) {
+                return String.valueOf(c);
+            }
+        }
+        return "not found";
+    }
+    static boolean linearSearch5(String str, char target1){
+        if (str.isEmpty()){
+            return false;
+        }
+        char[] charArray = str.toCharArray();
+        for (int i = 0; i < charArray.length; i++) {
+            char c = charArray[i];
+            if (c == target1){
+                return true;
+            }
+        }
+        return false;
+    }
+
 }
