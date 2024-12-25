@@ -42,4 +42,3 @@ public class FindPositionOfAnElementInASortedArrayOfInfiniteNumbers {
         return -1;
     }
 }
-
