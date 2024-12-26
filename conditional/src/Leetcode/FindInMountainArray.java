@@ -49,7 +49,6 @@ public class FindInMountainArray {
                 }
             }
         }
-
         return -1;
     }
 }
