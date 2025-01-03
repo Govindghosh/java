@@ -2,6 +2,8 @@ package Sorting;
 
 import java.util.Arrays;
 
+import static Sorting.SelectionSorting.swap;
+
 
 public class InsertionSorting {
     public static void main(String[] args) {
@@ -21,10 +23,10 @@ public class InsertionSorting {
         }
     }
 
-    private static void swap(int[] arr, int first, int second) {
-        int temp = arr[first];
-        arr[first] = arr[second];
-        arr[second] = temp;
-    }
+//    private static void swap(int[] arr, int first, int second) {
+//        int temp = arr[first];
+//        arr[first] = arr[second];
+//        arr[second] = temp;
+//    }
 
 }
