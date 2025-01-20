@@ -27,8 +27,8 @@ public class SetMismatch {
         return new int[]{-1,-1};
     }
     static void swap(int[] arr,int a, int b ){
-        int temp = a;
-        a = b;
-        b = temp;
+        int temp = arr[a];
+        arr[a] = arr[b];
+        arr[b] = temp;
     }
 }
