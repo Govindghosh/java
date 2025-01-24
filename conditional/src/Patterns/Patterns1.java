@@ -28,6 +28,8 @@ public class Patterns1 {
         patternFive(5);
         System.out.println("another pattern28");
         patterntwentyEight(5);
+        System.out.println("another pattern30");
+        patternThirty(5);
     }
     static void patternOne(int n) {
         for (int row = 0; row < n; row++) {
@@ -92,6 +94,22 @@ public class Patterns1 {
             }
             for (int col = 0; col < totalColsInRow; col++) {
                 System.out.print("* ");
+            }
+            // When one row is printed, add a newline
+            System.out.println();
+        }
+    }
+    static void patternThirty(int n) {
+        for (int row = 1; row <= n; row++) {
+            for (int space = 0; space < n-row; space++) {
+                System.out.print("  ");
+            }
+            // For every row, run the columns
+            for (int col = row; col >= 1; col--) {
+                System.out.print(col+" ");
+            }
+            for (int col = 2; col <= row; col++) {
+                System.out.print(col+" ");
             }
             // When one row is printed, add a newline
             System.out.println();
