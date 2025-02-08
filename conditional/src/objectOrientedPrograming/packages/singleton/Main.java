@@ -6,6 +6,7 @@ public class Main {
         Singleton singleton = Singleton.getInstance();
         Singleton singleton1 = Singleton.getInstance();
         Singleton singleton2 = Singleton.getInstance();
+        // all 3 ref var are pointing to just one obj
 
         // Checking if all instances are the same
         System.out.println(singleton == singleton1); // true
