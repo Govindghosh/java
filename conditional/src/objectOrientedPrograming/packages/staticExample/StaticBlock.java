@@ -15,8 +15,7 @@ public class StaticBlock {
 
     public static void main(String[] args) {
         System.out.println("Main method executed!");
-
-        // Accessing static variables
+              // Accessing static variables
         System.out.println("Value of a: " + a);
         System.out.println("Value of b: " + b);
     }
