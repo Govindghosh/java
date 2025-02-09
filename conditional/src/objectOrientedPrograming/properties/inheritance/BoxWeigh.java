@@ -18,7 +18,6 @@ public class BoxWeigh extends Box {
     public BoxWeigh(double len, double width, double hei, double weigh) {
         super(len, width, hei); // Calls the constructor of the parent class (Box) to initialize its properties
         // This is necessary because the parent class may not have a default constructor.
-
         this.weigh = weigh; // Initializes the weight property of the BoxWeigh class
     }
     public String toString() {

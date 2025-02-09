@@ -52,5 +52,16 @@ public class Main {
         Box box7 = new Box(4.6,7.7,8.8);
         // Box is parent you can not access weigh
         // box7.weigh // error
+
+        // example reference variable and object not same, we made parent var and child object
+        // we can't access child properties like weigh
+        // this is reference type of Box(parent) and Box referring type BoxWeigh
+        Box box8 = new BoxWeigh(10,40,60,1000);
+        //System.out.println(box8.weigh); // we can't access child properties like weigh
+        // child to parent
+        // explanation you are given access to variable that are in the ref i.e BoxWeigh
+        // hence, you should have access to weight variable
+       // BoxWeigh box9 = new Box(10,40,60);
+        //System.out.println(box9.weigh);
     }
 }
