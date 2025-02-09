@@ -1,7 +1,7 @@
 package objectOrientedPrograming.properties.inheritance;
 
 public class Box {
-    double len;
+    private double len;
     double hei;
     double width;
 
