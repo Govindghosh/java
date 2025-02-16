@@ -61,7 +61,11 @@ public class Main {
         // child to parent
         // explanation you are given access to variable that are in the ref i.e BoxWeigh
         // hence, you should have access to weight variable
-       // BoxWeigh box9 = new Box(10,40,60);
+        //BoxWeigh box9 = new Box(10,40,60);
         //System.out.println(box9.weigh);
+        BoxPrice box9 = new BoxPrice(90);
+        System.out.println("Box price box9 " + box9.price);
+        BoxPrice box10 = new BoxPrice(44,45,62,1000,10000);
+        System.out.println("all the arrgs box10 "+ box10.price);
     }
 }

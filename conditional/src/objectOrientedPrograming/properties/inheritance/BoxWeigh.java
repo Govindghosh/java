@@ -20,6 +20,12 @@ public class BoxWeigh extends Box {
         // This is necessary because the parent class may not have a default constructor.
         this.weigh = weigh; // Initializes the weight property of the BoxWeigh class
     }
+
+    public BoxWeigh() {
+
+    }
+
+
     public String toString() {
         return "BoxWeigh [" +
                 //"Length=" + len + // you can not use like if the len is private you can do in same file
