@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3c6015f-337b-4912-8578-47f49a153e59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/properties/polymorphism/ObjectPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/properties/polymorphism/EncapsulationAndAbstraction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/properties/polymorphism/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/properties/polymorphism/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/properties/polymorphism/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/properties/polymorphism/Shapes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
