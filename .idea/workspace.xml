@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3c6015f-337b-4912-8578-47f49a153e59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/interfaceDemo/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/interfaceDemo/Brake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/interfaceDemo/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/interfaceDemo/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/interfaceDemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/interfaceDemo/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/generics/CustomArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/generics/CustomGenericArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/generics/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/abstractDemo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/abstractDemo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/abstractDemo/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/abstractDemo/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/interfaceDemo/nestedInterface/NestedInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/interfaceDemo/nestedInterface/NestedInterfaces.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -58,12 +54,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CustomArrayList.executor": "Run",
     "Application.EncapsulationAndAbstraction.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NestedInterfacesSecond.executor": "Run",
     "Application.Numbers.executor": "Run",
     "Application.ObjectDemo.executor": "Run",
     "Application.ObjectPrint.executor": "Run",
     "Application.objectOrientedPrograming.abstractDemo.Main.executor": "Run",
+    "Application.objectOrientedPrograming.generics.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -76,16 +75,17 @@
       <recent name="objectOrientedPrograming.properties.polymorphism" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="objectOrientedPrograming.generics" />
       <recent name="objectOrientedPrograming.abstractDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="EncapsulationAndAbstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.properties.polymorphism.EncapsulationAndAbstraction" />
+  <component name="RunManager" selected="Application.objectOrientedPrograming.generics.Main">
+    <configuration name="CustomArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.generics.CustomArrayList" />
       <module name="conditional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedPrograming.properties.polymorphism.*" />
+          <option name="PATTERN" value="objectOrientedPrograming.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,25 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.access.ObjectDemo" />
+    <configuration name="NestedInterfacesSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.interfaceDemo.nestedInterface.NestedInterfacesSecond" />
       <module name="conditional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedPrograming.access.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObjectPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.properties.polymorphism.ObjectPrint" />
-      <module name="conditional" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="objectOrientedPrograming.properties.polymorphism.*" />
+          <option name="PATTERN" value="objectOrientedPrograming.interfaceDemo.nestedInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,13 +132,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="objectOrientedPrograming.generics.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.generics.Main" />
+      <module name="conditional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objectOrientedPrograming.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.objectOrientedPrograming.generics.Main" />
+        <item itemvalue="Application.CustomArrayList" />
+        <item itemvalue="Application.NestedInterfacesSecond" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.objectOrientedPrograming.abstractDemo.Main" />
-        <item itemvalue="Application.ObjectDemo" />
-        <item itemvalue="Application.EncapsulationAndAbstraction" />
-        <item itemvalue="Application.ObjectPrint" />
       </list>
     </recent_temporary>
   </component>
