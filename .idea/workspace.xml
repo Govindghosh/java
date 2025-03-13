@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3c6015f-337b-4912-8578-47f49a153e59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/exceptionHandling/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/exceptionHandling/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/exceptionHandling/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/cloning/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/cloning/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/comparing/LambdaFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/comparing/LambdaFunctions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/comparing/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/comparing/Operation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +62,7 @@
     "Application.ObjectDemo.executor": "Run",
     "Application.ObjectPrint.executor": "Run",
     "Application.objectOrientedPrograming.abstractDemo.Main.executor": "Run",
+    "Application.objectOrientedPrograming.cloning.Main.executor": "Run",
     "Application.objectOrientedPrograming.generics.Main.executor": "Run",
     "Application.objectOrientedPrograming.generics.comparing.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -83,7 +81,7 @@
       <recent name="objectOrientedPrograming.abstractDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.objectOrientedPrograming.cloning.Main">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.exceptionHandling.Demo" />
       <module name="conditional" />
@@ -123,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="objectOrientedPrograming.generics.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.generics.Main" />
+    <configuration name="objectOrientedPrograming.cloning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.cloning.Main" />
       <module name="conditional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedPrograming.generics.*" />
+          <option name="PATTERN" value="objectOrientedPrograming.cloning.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.objectOrientedPrograming.cloning.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.LambdaFunctions" />
         <item itemvalue="Application.objectOrientedPrograming.generics.comparing.Main" />
-        <item itemvalue="Application.objectOrientedPrograming.generics.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -169,5 +167,15 @@
       <updated>1732622151797</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="objectOrientedPrograming.exceptionHandling.MyException" package="objectOrientedPrograming.exceptionHandling" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
