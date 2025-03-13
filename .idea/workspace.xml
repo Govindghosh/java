@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3c6015f-337b-4912-8578-47f49a153e59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/generics/comparing/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/generics/comparing/LambdaFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/generics/comparing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/generics/comparing/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/exceptionHandling/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/exceptionHandling/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/exceptionHandling/MyException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/comparing/LambdaFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/comparing/LambdaFunctions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/comparing/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/comparing/Operation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CustomArrayList.executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.EncapsulationAndAbstraction.executor": "Run",
     "Application.LambdaFunctions.executor": "Run",
     "Application.Main.executor": "Run",
@@ -81,13 +83,13 @@
       <recent name="objectOrientedPrograming.abstractDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaFunctions">
-    <configuration name="CustomArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.generics.CustomArrayList" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.exceptionHandling.Demo" />
       <module name="conditional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedPrograming.generics.*" />
+          <option name="PATTERN" value="objectOrientedPrograming.exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedInterfacesSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.interfaceDemo.nestedInterface.NestedInterfacesSecond" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.exceptionHandling.Main" />
       <module name="conditional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedPrograming.interfaceDemo.nestedInterface.*" />
+          <option name="PATTERN" value="objectOrientedPrograming.exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.LambdaFunctions" />
         <item itemvalue="Application.objectOrientedPrograming.generics.comparing.Main" />
         <item itemvalue="Application.objectOrientedPrograming.generics.Main" />
-        <item itemvalue="Application.CustomArrayList" />
-        <item itemvalue="Application.NestedInterfacesSecond" />
       </list>
     </recent_temporary>
   </component>
