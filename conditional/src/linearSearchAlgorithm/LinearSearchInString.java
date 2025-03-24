@@ -17,7 +17,7 @@ public class LinearSearchInString {
         // now we do same thing with using Scanner
         System.out.println("Target index is " + ans2);
         Scanner in = new Scanner(System.in);
-        System.out.print("Please provide String : ");
+        System.out.print("Please provide string : ");
         String str = in.nextLine().replaceAll(" ","");
         System.out.print("Please provide which char : ");
         char target1 = in.next().trim().charAt(0);

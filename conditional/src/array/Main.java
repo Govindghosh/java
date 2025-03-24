@@ -30,7 +30,7 @@ public class Main {
 //        5- array start with 0 example
         // new is used to create a object
         System.out.println(rollnum[1]); // output 0
-        //String
+        //string
         String[] strArr = new String[4];
         System.out.println(strArr[2]); // output is null
 

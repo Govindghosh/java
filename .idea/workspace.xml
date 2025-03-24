@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3c6015f-337b-4912-8578-47f49a153e59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/collections/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/enumExample/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/enumExample/Basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/cloning/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/cloning/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/cloning/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/cloning/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/cloning/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/cloning/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/cloning/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/cloning/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -53,28 +50,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CustomArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EncapsulationAndAbstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LambdaFunctions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedInterfacesSecond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObjectDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObjectPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.objectOrientedPrograming.abstractDemo.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.objectOrientedPrograming.cloning.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.objectOrientedPrograming.generics.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.objectOrientedPrograming.generics.comparing.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Harry/gramclone&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Basic.executor": "Run",
+    "Application.CustomArrayList.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.EncapsulationAndAbstraction.executor": "Run",
+    "Application.LambdaFunctions.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NestedInterfacesSecond.executor": "Run",
+    "Application.Numbers.executor": "Run",
+    "Application.ObjectDemo.executor": "Run",
+    "Application.ObjectPrint.executor": "Run",
+    "Application.objectOrientedPrograming.abstractDemo.Main.executor": "Run",
+    "Application.objectOrientedPrograming.cloning.Main.executor": "Run",
+    "Application.objectOrientedPrograming.collections.Main.executor": "Run",
+    "Application.objectOrientedPrograming.generics.Main.executor": "Run",
+    "Application.objectOrientedPrograming.generics.comparing.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Harry/gramclone"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="objectOrientedPrograming.properties.polymorphism" />
@@ -84,13 +83,13 @@
       <recent name="objectOrientedPrograming.abstractDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.objectOrientedPrograming.collections.Main">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.exceptionHandling.Demo" />
+  <component name="RunManager" selected="Application.Basic">
+    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.enumExample.Basic" />
       <module name="conditional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedPrograming.exceptionHandling.*" />
+          <option name="PATTERN" value="objectOrientedPrograming.enumExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.generics.comparing.LambdaFunctions" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.exceptionHandling.Demo" />
       <module name="conditional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedPrograming.generics.comparing.*" />
+          <option name="PATTERN" value="objectOrientedPrograming.exceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Basic" />
         <item itemvalue="Application.objectOrientedPrograming.collections.Main" />
         <item itemvalue="Application.objectOrientedPrograming.cloning.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.LambdaFunctions" />
       </list>
     </recent_temporary>
   </component>

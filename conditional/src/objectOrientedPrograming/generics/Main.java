@@ -54,13 +54,13 @@ public class Main {
         System.out.println("\n----------Generics Example----------");
 
         ArrayList<Integer> list2 = new ArrayList<>();
-        // Type safety ensures no String can be added to list2
+        // Type safety ensures no string can be added to list2
         // list2.add("vdgjvc");  // ❌ Compilation error
 
         ArrayList<String> list3 = new ArrayList<>();
         list3.add("Govind");
         System.out.println(list3.toString());
-        System.out.println("\n----------------CustomGenericArrayList<String>----------------");
+        System.out.println("\n----------------CustomGenericArrayList<string>----------------");
         CustomGenericArrayList<String> stringList = new CustomGenericArrayList<>();
         stringList.add("Hello");
         stringList.add("World");
