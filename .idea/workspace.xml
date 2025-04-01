@@ -5,9 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3c6015f-337b-4912-8578-47f49a153e59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/enumExample/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/objectOrientedPrograming/enumExample/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/linkedList/Linklist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional/src/linkedList/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindAllDuplicatesInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindAllDuplicatesInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindAllNumbersDisappearedInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindAllNumbersDisappearedInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindDuplicateNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindDuplicateNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindFirstAndLastPositionOfElementInSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindFirstAndLastPositionOfElementInSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindInMountainArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindInMountainArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindNumberWithEvenNumberOfDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindNumberWithEvenNumberOfDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindPeakElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindPeakElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindPositionOfAnElementInASortedArrayOfInfiniteNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindPositionOfAnElementInASortedArrayOfInfiniteNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindSmallestLetterGreaterThanTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindSmallestLetterGreaterThanTarget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FirstMissingPositive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FirstMissingPositive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/MergeSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/MissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/MissingNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/PeakIndexInMountainArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/PeakIndexInMountainArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/RichestCustomerWealth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/RichestCustomerWealth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/RotationCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/RotationCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/SearchInRotatedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/SearchInRotatedSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/SetMismatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/SetMismatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/SplitArrayLargestSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/SplitArrayLargestSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/TwoSumInputArrayIsSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/TwoSumInputArrayIsSorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/ValidPerfectSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/ValidPerfectSquare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Patterns/Patterns1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Patterns/Patterns1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Recursion/FibonacciRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Recursion/FibonacciRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Recursion/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Recursion/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Recursion/NumbersExplain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Recursion/NumbersExplain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Recursion/NumbersExplainRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Recursion/NumbersExplainRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Sorting/BubbleSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Sorting/BubbleSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Sorting/CyclicSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Sorting/CyclicSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Sorting/InsertionSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Sorting/InsertionSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/Sorting/SelectionSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Sorting/SelectionSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Comparison.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Comparison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Output.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Output.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Palin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Palin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Performance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Performance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/PrettyPrinting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/PrettyPrinting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/SB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/SB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Str.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Str.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/placeholderList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/placeholderList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/linearSearchAlgorithm/LinearSearchInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/linearSearchAlgorithm/LinearSearchInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +59,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -62,6 +103,7 @@
     "Application.Numbers.executor": "Run",
     "Application.ObjectDemo.executor": "Run",
     "Application.ObjectPrint.executor": "Run",
+    "Application.linkedList.Main.executor": "Run",
     "Application.objectOrientedPrograming.abstractDemo.Main.executor": "Run",
     "Application.objectOrientedPrograming.cloning.Main.executor": "Run",
     "Application.objectOrientedPrograming.collections.Main.executor": "Run",
@@ -83,7 +125,7 @@
       <recent name="objectOrientedPrograming.abstractDemo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Basic">
+  <component name="RunManager" selected="Application.linkedList.Main">
     <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.enumExample.Basic" />
       <module name="conditional" />
@@ -97,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.exceptionHandling.Demo" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.exceptionHandling.Main" />
       <module name="conditional" />
       <extension name="coverage">
         <pattern>
@@ -110,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOrientedPrograming.exceptionHandling.Main" />
+    <configuration name="linkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedList.Main" />
       <module name="conditional" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="objectOrientedPrograming.exceptionHandling.*" />
+          <option name="PATTERN" value="linkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.linkedList.Main" />
         <item itemvalue="Application.Basic" />
         <item itemvalue="Application.objectOrientedPrograming.collections.Main" />
         <item itemvalue="Application.objectOrientedPrograming.cloning.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
