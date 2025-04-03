@@ -16,6 +16,14 @@ class Node {
         this.val = val;
         this.next = next;
     }
+
+    @Override
+    public String toString() {
+        return "Node{" +
+                "val=" + val +
+                ", next=" + next +
+                '}';
+    }
 }
 
 public class Linklist {
@@ -135,5 +143,16 @@ public class Linklist {
     // Get the size of the linked list
     public int getSize() {
         return size;
+    }
+    // Find and return the Node by its value
+    public Node find(int value) {
+        Node node = head;
+        while (node != null) { // Traverse the list
+            if (node.val == value) { // If value matches, return the node
+                return node;
+            }
+            node = node.next;
+        }
+        return null; // Return null if value not found
     }
 }

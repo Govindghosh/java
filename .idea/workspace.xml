@@ -5,50 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3c6015f-337b-4912-8578-47f49a153e59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditional/src/linkedList/Linklist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conditional/src/linkedList/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindAllDuplicatesInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindAllDuplicatesInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindAllNumbersDisappearedInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindAllNumbersDisappearedInAnArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindDuplicateNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindDuplicateNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindFirstAndLastPositionOfElementInSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindFirstAndLastPositionOfElementInSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindInMountainArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindInMountainArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindNumberWithEvenNumberOfDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindNumberWithEvenNumberOfDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindPeakElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindPeakElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindPositionOfAnElementInASortedArrayOfInfiniteNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindPositionOfAnElementInASortedArrayOfInfiniteNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindSmallestLetterGreaterThanTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FindSmallestLetterGreaterThanTarget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/FirstMissingPositive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/FirstMissingPositive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/MergeSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/MissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/MissingNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/PeakIndexInMountainArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/PeakIndexInMountainArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/RichestCustomerWealth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/RichestCustomerWealth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/RotationCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/RotationCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/SearchInRotatedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/SearchInRotatedSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/SetMismatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/SetMismatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/SplitArrayLargestSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/SplitArrayLargestSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/TwoSumInputArrayIsSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/TwoSumInputArrayIsSorted.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Leetcode/ValidPerfectSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Leetcode/ValidPerfectSquare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Patterns/Patterns1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Patterns/Patterns1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Recursion/FibonacciRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Recursion/FibonacciRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Recursion/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Recursion/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Recursion/NumbersExplain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Recursion/NumbersExplain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Recursion/NumbersExplainRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Recursion/NumbersExplainRecursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Sorting/BubbleSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Sorting/BubbleSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Sorting/CyclicSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Sorting/CyclicSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Sorting/InsertionSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Sorting/InsertionSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/Sorting/SelectionSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/Sorting/SelectionSorting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Comparison.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Comparison.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Operators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Output.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Output.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Palin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Palin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Performance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Performance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/PrettyPrinting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/PrettyPrinting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/SB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/SB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/Str.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/Str.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/String/placeholderList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/String/placeholderList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/linearSearchAlgorithm/LinearSearchInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/linearSearchAlgorithm/LinearSearchInString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/conditional/objectOrientedPrograming/generics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditional/src/linkedList/Linklist.java" beforeDir="false" afterPath="$PROJECT_DIR$/conditional/src/linkedList/Linklist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditional/src/linkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/conditional/src/linkedList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,31 +50,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Basic.executor": "Run",
-    "Application.CustomArrayList.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.EncapsulationAndAbstraction.executor": "Run",
-    "Application.LambdaFunctions.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.NestedInterfacesSecond.executor": "Run",
-    "Application.Numbers.executor": "Run",
-    "Application.ObjectDemo.executor": "Run",
-    "Application.ObjectPrint.executor": "Run",
-    "Application.linkedList.Main.executor": "Run",
-    "Application.objectOrientedPrograming.abstractDemo.Main.executor": "Run",
-    "Application.objectOrientedPrograming.cloning.Main.executor": "Run",
-    "Application.objectOrientedPrograming.collections.Main.executor": "Run",
-    "Application.objectOrientedPrograming.generics.Main.executor": "Run",
-    "Application.objectOrientedPrograming.generics.comparing.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Harry/gramclone"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EncapsulationAndAbstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedInterfacesSecond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectPrint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linkedList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.objectOrientedPrograming.abstractDemo.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.objectOrientedPrograming.cloning.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.objectOrientedPrograming.collections.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.objectOrientedPrograming.generics.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.objectOrientedPrograming.generics.comparing.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Harry/gramclone&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="objectOrientedPrograming.properties.polymorphism" />
