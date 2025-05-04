@@ -1,32 +1,32 @@
 package linkedList;
 
-// Node class representing an element of the linked list
-class Node {
-    int val;
-    Node next;
-
-    // Constructor to initialize a node with a value
-    public Node(int val) {
-        this.val = val;
-        this.next = null;
-    }
-
-    // Constructor to initialize a node with a value and a reference to the next node
-    public Node(int val, Node next) {
-        this.val = val;
-        this.next = next;
-    }
-
-    @Override
-    public String toString() {
-        return "Node{" +
-                "val=" + val +
-                ", next=" + next +
-                '}';
-    }
-}
 
 public class Linklist {
+    // Node class representing an element of the linked list
+    private class Node {
+        private int val;
+        private Node next;
+
+        // Constructor to initialize a node with a value
+        public Node(int val) {
+            this.val = val;
+            this.next = null;
+        }
+
+        // Constructor to initialize a node with a value and a reference to the next node
+        public Node(int val, Node next) {
+            this.val = val;
+            this.next = next;
+        }
+
+        @Override
+        public String toString() {
+            return "Node{" +
+                    "val=" + val +
+                    ", next=" + next +
+                    '}';
+        }
+    }
 
     private Node head; // Points to the first node of the list
     private Node tail; // Points to the last node of the list

@@ -26,5 +26,6 @@ public class Main {
         dlist.insertFirst(40);
         dlist.insertFirst(05);
         dlist.display();
+        dlist.displayRev();
     }
 }

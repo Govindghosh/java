@@ -35,4 +35,24 @@ public class DoubleLinklist {
         }
         System.out.println("End");
     }
+    public void displayRev() {
+        Node node = head;
+        if (node == null) {
+            System.out.println("List is empty");
+            return;
+        }
+
+        // Move to the tail
+        while (node.next != null) {
+            node = node.next;
+        }
+
+        // Now print in reverse
+        System.out.print("Reverse: ");
+        while (node != null) {
+            System.out.print(node.val + " -> ");
+            node = node.prev;
+        }
+        System.out.println("Start");
+    }
 }
