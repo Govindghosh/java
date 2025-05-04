@@ -18,5 +18,13 @@ public class Main {
         System.out.println("Size: " + list.getSize()); // Output: Size: 3
         list.printList();
         System.out.println(list.find(100)); // Find and print node if found
+
+        System.out.println("double Linklist");
+        DoubleLinklist dlist = new DoubleLinklist();
+        dlist.insertFirst(100);
+        dlist.insertFirst(50);
+        dlist.insertFirst(40);
+        dlist.insertFirst(05);
+        dlist.display();
     }
 }
